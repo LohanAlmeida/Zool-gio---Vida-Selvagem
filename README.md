@@ -62,4 +62,4 @@ cd Zool-gio---Vida-Selvagem
 Desenvolvido por Lohan Almeida
 🔗 GitHub: https://github.com/LohanAlmeida
 
-🔗 LinkedIn: https://www.linkedin.com/in/lohan-almeida-dev/
+🔗 LinkedIn: https://www.linkedin.com/in/lohan-almeida-dev/ 
